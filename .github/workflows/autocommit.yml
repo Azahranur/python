@@ -28,8 +28,8 @@ jobs:
           
       - name: Commit changes
         run: |
-          git config --local user.email "shelbi.1@linksnb.com"
-          git config --local user.name "shelbise"
+          git config --local user.email "Azahranurdwi@outlook.com"
+          git config --local user.name "Azahranurdwi"
           git add -A
           
           arr[0]="compile"
